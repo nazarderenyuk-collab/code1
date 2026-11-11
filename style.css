@@ -1,0 +1,13 @@
+body{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(0, 55, 128);
+}
+div{
+    
+    flex-direction: column;
+}
+
+ul{
+    background-color: black;
+}
